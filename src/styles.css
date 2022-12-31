@@ -1,0 +1,40 @@
+body {
+  max-width: 700px;
+  margin: 30px auto;
+  font-family: "Mulish", sans-serif;
+  background: #f2f2f2;
+  color: #685454;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 30px;
+}
+li {
+  list-style-type: none;
+}
+
+.mainImage {
+  width: 100px;
+}
+.max {
+  font-weight: 800;
+}
+
+.day {
+  padding: 20px;
+}
+.card {
+  margin-left: -60px;
+}
+#fahrenheit {
+  font-size: small;
+}
+#city-input {
+  width: 170px;
+}

@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:32b23326-4407-421c-bb4f-fbbb7b2ee2b5</distributor>
+  <operatorURL>http://fulfillment.yourcloudlibrary.com/fulfillment</operatorURL>
+  <transaction>3m.au_USEUbuRktrProd07_02548711</transaction>
+  <purchase>2022-12-12T07:19:43+00:00</purchase>
+  <expiration>2023-12-12T07:19:43+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:de24e9a2-7ad3-4ea3-bf79-a4df96c4d6f7</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">All Your Perfects</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Colleen Hoover</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Simon &amp; Schuster Australia</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">9781925640694</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN-AU</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:de24e9a2-7ad3-4ea3-bf79-a4df96c4d6f7</resource>
+      <permissions>
+        <display>
+          <until>2022-12-25T23:27:24+00:00</until>
+        </display>
+        <excerpt>
+          <until>2022-12-25T23:27:24+00:00</until>
+        </excerpt>
+        <print>
+          <until>2022-12-25T23:27:24+00:00</until>
+        </print>
+        <play>
+          <until>2022-12-25T23:27:24+00:00</until>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>5pA0ldTa5gNgEu26Xo/62ssUln8=</hmac>
+</fulfillmentToken>
